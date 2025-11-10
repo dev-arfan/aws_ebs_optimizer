@@ -22,3 +22,11 @@ If any volume is created with a different type (e.g., `gp2`, `io1`, `st1`, etc.)
 ## 🏗️ Architecture Diagram
 
 <img width="1066" height="740" alt="image" src="https://github.com/user-attachments/assets/aad0a806-c7d1-4911-a63e-9b5600ae7984" />
+
+📝 Documentation & Demo
+
+📘 Standard Operating Procedure (SOP): https://www.notion.so/AWS-EBS-Optimizer-Project-2a7b7e6f248f806cab9cddd12d3a5974?source=copy_link
+
+🎥 Demo Video: https://drive.google.com/file/d/1dpq6L9HSSDwpmas02SK-_qPucr74uhUR/view?usp=sharing
+
+👨‍💻 Author Arfan Ahmed Cloud & DevOps Engineer
